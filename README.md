@@ -1,7 +1,7 @@
 # Quantum algorithm for the Vlasov equation
 
 Original authors: Alexander Engel, Graeme Smith, and Scott E. Parker \
-Reproduced by: Óscar Amaro
+Reproduced by: [Óscar Amaro](https://github.com/OsAmaro)
 
 url: https://journals.aps.org/pra/abstract/10.1103/PhysRevA.100.062315 \
 preprint: https://arxiv.org/abs/1907.09418
